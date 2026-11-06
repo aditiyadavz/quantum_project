@@ -1,0 +1,69 @@
+key,id,abstract_source,abstract_words,arxiv_first_author_ok,doi_registered
+10_1038_s43588_022_00311_3,10.1038/s43588-022-00311-3,arXiv version http://arxiv.org/abs/2303.09491v1,80,True,True
+10_1103_PRXQuantum_3_030101,10.1103/PRXQuantum.3.030101,crossref/openalex,146,,True
+10_1038_s41467_021_22539_9,10.1038/s41467-021-22539-9,crossref/openalex,190,,True
+10_1038_s41567_021_01287_z,10.1038/s41567-021-01287-z,arXiv version http://arxiv.org/abs/2010.02174v2,179,True,True
+10_1038_s41467_022_32550_3,10.1038/s41467-022-32550-3,crossref/openalex,198,,True
+10_1126_science_abn7293,10.1126/science.abn7293,crossref/openalex,121,,True
+10_1038_nature23474,10.1038/nature23474,semantic scholar,104,False,True
+arXiv_2403_07059,arXiv:2403.07059,arxiv/openalex,169,,
+10_1103_PhysRevLett_131_100803,10.1103/PhysRevLett.131.100803,crossref/openalex,199,,True
+10_1038_s41586_019_0980_2,10.1038/s41586-019-0980-2,semantic scholar,267,,True
+10_1038_s41467_024_49287_w,10.1038/s41467-024-49287-w,crossref/openalex,242,,True
+10_1038_s41467_023_36159_y,10.1038/s41467-023-36159-y,crossref/openalex,195,,True
+10_1103_PhysRevA_106_042431,10.1103/PhysRevA.106.042431,crossref/openalex,200,,True
+10_1038_s41567_023_02340_9,10.1038/s41567-023-02340-9,arXiv version http://arxiv.org/abs/2105.03406v2,142,True,True
+10_1038_s41534_021_00498_9,10.1038/s41534-021-00498-9,crossref/openalex,145,,True
+10_22331_q_2021_08_30_531,10.22331/q-2021-08-30-531,crossref/openalex,204,,True
+10_1103_PhysRevA_106_042407,10.1103/PhysRevA.106.042407,crossref/openalex,180,,True
+arXiv_2206_01573,arXiv:2206.01573,arxiv/openalex,157,,
+arXiv_2406_01948,arXiv:2406.01948,arxiv/openalex,128,,
+10_1038_s42254_021_00348_9,10.1038/s42254-021-00348-9,arXiv version http://arxiv.org/abs/2012.09265v2,150,True,True
+10_1103_RevModPhys_94_015004,10.1103/RevModPhys.94.015004,crossref/openalex,81,,True
+10_1103_PhysRevA_103_032430,10.1103/PhysRevA.103.032430,crossref/openalex,153,,True
+10_22331_q_2020_02_06_226,10.22331/q-2020-02-06-226,crossref/openalex,150,,True
+10_1016_j_physrep_2022_08_003,10.1016/j.physrep.2022.08.003,crossref/openalex,407,,True
+10_1007_s42484_020_00036_4,10.1007/s42484-020-00036-4,crossref/openalex,203,,True
+10_1038_s43588_021_00084_1,10.1038/s43588-021-00084-1,arXiv version http://arxiv.org/abs/2011.00027v1,200,True,True
+10_1038_s41467_021_21728_w,10.1038/s41467-021-21728-w,crossref/openalex,169,,True
+10_1038_s41467_021_27045_6,10.1038/s41467-021-27045-6,crossref/openalex,150,,True
+10_1103_PRXQuantum_3_010313,10.1103/PRXQuantum.3.010313,crossref/openalex,154,,True
+10_1103_PhysRevX_11_041011,10.1103/PhysRevX.11.041011,crossref/openalex,159,,True
+10_1038_s43588_023_00467_6,10.1038/s43588-023-00467-6,arXiv version http://arxiv.org/abs/2109.11676v1,211,True,True
+10_1038_s41467_022_35364_5,10.1038/s41467-022-35364-5,crossref/openalex,231,,True
+10_22331_q_2020_10_09_340,10.22331/q-2020-10-09-340,crossref/openalex,147,,True
+10_1007_s11433_021_1734_3,10.1007/s11433-021-1734-3,semantic scholar,173,,True
+10_1007_s42484_021_00061_x,10.1007/s42484-021-00061-x,arXiv version http://arxiv.org/abs/2108.00661v2,144,True,True
+10_1038_s41467_023_36144_5,10.1038/s41467-023-36144-5,crossref/openalex,152,,True
+10_1038_s43588_022_00351_9,10.1038/s43588-022-00351-9,arXiv version http://arxiv.org/abs/2204.01738v1,223,True,True
+arXiv_2408_03351,arXiv:2408.03351,arxiv/openalex,233,,
+10_1098_rsif_2022_0541,10.1098/rsif.2022.0541,crossref/openalex,199,,True
+10_1109_TQE_2022_3176806,10.1109/TQE.2022.3176806,crossref/openalex,196,,True
+10_1109_ACCESS_2022_3195044,10.1109/ACCESS.2022.3195044,crossref/openalex,224,,True
+10_1038_s41598_022_05971_9,10.1038/s41598-022-05971-9,crossref/openalex,208,,True
+10_1007_s42484_022_00062_4,10.1007/s42484-022-00062-4,NOT FOUND,0,,True
+10_22331_q_2022_12_22_881,10.22331/q-2022-12-22-881,crossref/openalex,185,,True
+10_1093_jcde_qwac003,10.1093/jcde/qwac003,crossref/openalex,222,,True
+10_3390_fi15030094,10.3390/fi15030094,crossref/openalex,180,,True
+10_1049_qtc2_12113,10.1049/qtc2.12113,crossref/openalex,194,,True
+arXiv_2407_09930,arXiv:2407.09930,arxiv/openalex,263,,
+10_3390_diagnostics16131996,10.3390/diagnostics16131996,crossref/openalex,555,,True
+10_1051_matecconf_202541702001,10.1051/matecconf/202541702001,crossref/openalex,164,,True
+arXiv_2505_20797,arXiv:2505.20797,arxiv/openalex,90,,
+10_30871_jaic_v10i5_14093,10.30871/jaic.v10i5.14093,crossref/openalex,226,,True
+10_1007_s42484_020_00012_y,10.1007/s42484-020-00012-y,arXiv version http://arxiv.org/abs/1904.04767v1,207,True,True
+10_1088_2632_2153_ad2aef,10.1088/2632-2153/ad2aef,crossref/openalex,218,,True
+10_1103_PhysRevApplied_16_024051,10.1103/PhysRevApplied.16.024051,crossref/openalex,90,,True
+10_1007_s43673_021_00030_3,10.1007/s43673-021-00030-3,crossref/openalex,211,,True
+10_1016_j_physrep_2024_03_002,10.1016/j.physrep.2024.03.002,arXiv version http://arxiv.org/abs/2306.09198v2,141,True,True
+10_1038_s41567_020_01105_y,10.1038/s41567-020-01105-y,arXiv version http://arxiv.org/abs/2004.04197v3,201,True,True
+10_1126_science_abo6587,10.1126/science.abo6587,crossref/openalex,125,,True
+10_1038_s42254_024_00770_9,10.1038/s42254-024-00770-9,arXiv version http://arxiv.org/abs/2312.02279v3,201,True,True
+10_1038_s41586_024_08148_8,10.1038/s41586-024-08148-8,crossref/openalex,192,,True
+10_1103_PhysRevA_107_010101,10.1103/PhysRevA.107.010101,crossref/openalex,48,,True
+10_1038_s41467_025_65836_3,10.1038/s41467-025-65836-3,crossref/openalex,147,,True
+10_1038_s42254_023_00603_1,10.1038/s42254-023-00603-1,semantic scholar,217,,True
+10_1109_TQE_2020_3030314,10.1109/TQE.2020.3030314,crossref/openalex,113,,True
+10_1109_TQE_2021_3049230,10.1109/TQE.2021.3049230,crossref/openalex,150,,True
+10_1007_s11416_022_00435_0,10.1007/s11416-022-00435-0,crossref/openalex,199,,True
+10_1038_s41598_024_78389_0,10.1038/s41598-024-78389-0,crossref/openalex,175,,True

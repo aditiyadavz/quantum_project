@@ -1,0 +1,3 @@
+oracle,counts,P(000),decision,correct
+constant,{'000': 1024},1.0,constant,True
+balanced,{'111': 1024},0.0,balanced,True

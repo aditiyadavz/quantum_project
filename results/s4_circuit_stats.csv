@@ -1,0 +1,5 @@
+circuit,qubits,depth,cx_gates,total_gates,parameters
+"ZZFeatureMap (reps=2, linear)",4,23,12,50,4
+RealAmplitudes ansatz (reps=3),4,27,9,89,16
+VQC full circuit,4,50,21,139,20
+Kernel compute-uncompute circuit,4,46,24,100,0

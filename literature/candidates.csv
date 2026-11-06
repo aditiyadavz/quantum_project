@@ -1,0 +1,69 @@
+theme,id,expected_title
+Foundations,10.1038/s43588-022-00311-3,Challenges and opportunities in quantum machine learning
+Foundations,10.1103/PRXQuantum.3.030101,Is Quantum Advantage the Right Goal for Quantum Machine Learning?
+Foundations,10.1038/s41467-021-22539-9,Power of data in quantum machine learning
+Foundations,10.1038/s41567-021-01287-z,A rigorous and robust quantum speed-up in supervised machine learning
+Foundations,10.1038/s41467-022-32550-3,Generalization in quantum machine learning from few training data
+Foundations,10.1126/science.abn7293,Quantum advantage in learning from experiments
+Foundations,10.1038/nature23474,Quantum machine learning
+Foundations,arXiv:2403.07059,Better than classical? The subtle art of benchmarking quantum machine learning models
+Foundations,10.1103/PhysRevLett.131.100803,Classical Surrogates for Quantum Learning Models
+Kernels,10.1038/s41586-019-0980-2,Supervised learning with quantum-enhanced feature spaces
+Kernels,10.1038/s41467-024-49287-w,Exponential concentration in quantum kernel methods
+Kernels,10.1038/s41467-023-36159-y,Quantum machine learning beyond kernel methods
+Kernels,10.1103/PhysRevA.106.042431,Training quantum embedding kernels on near-term quantum computers
+Kernels,10.1038/s41567-023-02340-9,Covariant quantum kernels for data with group structure
+Kernels,10.1038/s41534-021-00498-9,Machine learning of high dimensional data on a noisy quantum processor
+Kernels,10.22331/q-2021-08-30-531,Towards understanding the power of quantum kernels in the NISQ era
+Kernels,10.1103/PhysRevA.106.042407,Importance of kernel bandwidth in quantum machine learning
+Kernels,arXiv:2206.01573,Error mitigation for quantum kernel based machine learning methods on IonQ and IBM quantum computers
+Kernels,arXiv:2406.01948,Can Entanglement-enhanced Quantum Kernels Improve Data Classification?
+VQA,10.1038/s42254-021-00348-9,Variational quantum algorithms
+VQA,10.1103/RevModPhys.94.015004,Noisy intermediate-scale quantum algorithms
+VQA,10.1103/PhysRevA.103.032430,Effect of data encoding on the expressive power of variational quantum-machine-learning models
+VQA,10.22331/q-2020-02-06-226,Data re-uploading for a universal quantum classifier
+VQA,10.1016/j.physrep.2022.08.003,The Variational Quantum Eigensolver: A review of methods and best practices
+VQA,10.1007/s42484-020-00036-4,Layerwise learning for quantum neural networks
+QNN,10.1038/s43588-021-00084-1,The power of quantum neural networks
+QNN,10.1038/s41467-021-21728-w,Cost function dependent barren plateaus in shallow parametrized quantum circuits
+QNN,10.1038/s41467-021-27045-6,Noise-induced barren plateaus in variational quantum algorithms
+QNN,10.1103/PRXQuantum.3.010313,Connecting Ansatz Expressibility to Gradient Magnitudes and Barren Plateaus
+QNN,10.1103/PhysRevX.11.041011,Absence of Barren Plateaus in Quantum Convolutional Neural Networks
+QNN,10.1038/s43588-023-00467-6,Theory of overparametrization in quantum neural networks
+QNN,10.1038/s41467-022-35364-5,Quantum variational algorithms are swamped with traps
+Hybrid,10.22331/q-2020-10-09-340,Transfer learning in hybrid classical-quantum neural networks
+Hybrid,10.1007/s11433-021-1734-3,Hybrid quantum-classical convolutional neural networks
+Hybrid,10.1007/s42484-021-00061-x,Quantum convolutional neural network for classical data classification
+Hybrid,10.1038/s41467-023-36144-5,Universal expressiveness of variational quantum classifiers and quantum kernels for support vector machines
+Hybrid,10.1038/s43588-022-00351-9,Experimental quantum adversarial learning with programmable superconducting qubits
+Hybrid,arXiv:2408.03351,Quantum transfer learning for MNIST classification using a hybrid quantum-classical approach
+Health,10.1098/rsif.2022.0541,Biology and medicine in the landscape of quantum advantages
+Health,10.1109/TQE.2022.3176806,Prediction based on electronic health records with quantum kernels
+Health,10.1109/ACCESS.2022.3195044,Quantum Machine Learning Applications in the Biomedical Domain: A Systematic Review
+Health,10.1038/s41598-022-05971-9,Clinical data classification with noisy intermediate scale quantum computers
+Health,10.1007/s42484-022-00062-4,Quantum transfer learning for breast cancer detection
+Health,10.22331/q-2022-12-22-881,Quantum methods for neural networks and application to medical image classification
+Health,10.1093/jcde/qwac003,Hybrid quantum-classical convolutional neural network model for COVID-19 prediction using chest X-ray images
+Health,10.3390/fi15030094,Quantum Computing for Healthcare: A Review
+Health,10.1049/qtc2.12113,Enhanced quantum support vector machine for breast cancer diagnosis
+Health,arXiv:2407.09930,Evaluating quantum feature maps for breast cancer and glioma classification
+Health,10.3390/diagnostics16131996,A robustness-oriented quantum-classical hybrid machine learning pipeline for breast cancer diagnosis
+Health,10.1051/matecconf/202541702001,Artificial neural network versus variational quantum classifier breast cancer
+Health,arXiv:2505.20797,Multi-VQC: A Novel QML Approach for Enhancing Healthcare Classification
+Health,10.30871/jaic.v10i5.14093,Comparative Performance Analysis of SVM and QSVM in Breast Cancer Diagnosis
+Image,10.1007/s42484-020-00012-y,Quanvolutional neural networks: powering image recognition with quantum circuits
+Image,10.1088/2632-2153/ad2aef,Quantum machine learning for image classification
+Image,10.1103/PhysRevApplied.16.024051,Experimental Quantum Generative Adversarial Networks for Image Generation
+Image,10.1007/s43673-021-00030-3,A quantum convolutional neural network on NISQ devices
+Optimization,10.1016/j.physrep.2024.03.002,A review on Quantum Approximate Optimization Algorithm and its variants
+Optimization,10.1038/s41567-020-01105-y,Quantum approximate optimization of non-planar graph problems on a planar superconducting processor
+Optimization,10.1126/science.abo6587,Quantum optimization of maximum independent set using Rydberg atom arrays
+Optimization,10.1038/s42254-024-00770-9,Challenges and opportunities in quantum optimization
+AIforQC,10.1038/s41586-024-08148-8,Learning high-accuracy error decoding for quantum processors
+AIforQC,10.1103/PhysRevA.107.010101,Artificial intelligence and machine learning for quantum technologies
+AIforQC,10.1038/s41467-025-65836-3,Artificial intelligence for quantum computing
+Applications,10.1038/s42254-023-00603-1,Quantum computing for finance
+Applications,10.1109/TQE.2020.3030314,Quantum Computing for Finance: State-of-the-Art and Future Prospects
+Applications,10.1109/TQE.2021.3049230,Formulating and Solving Routing Problems on Quantum Computers
+Applications,10.1007/s11416-022-00435-0,Security intrusion detection using quantum machine learning techniques
+Applications,10.1038/s41598-024-78389-0,Quantum intrusion detection using outlier analysis

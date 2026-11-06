@@ -1,0 +1,5 @@
+register,decimal,phase,counts,fraction,guess_r,a^r mod N == 1,factors_from_r
+00000000,0,0.0,229,0/1,1,False,none (retry)
+01000000,64,0.25,264,1/4,4,True,3 x 5
+10000000,128,0.5,275,1/2,2,False,none (retry)
+11000000,192,0.75,256,3/4,4,True,3 x 5

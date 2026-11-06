@@ -1,0 +1,20 @@
+key,id,expected_title
+bray2024,10.3322/caac.21834,Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries
+feynman1982,10.1007/BF02650179,Simulating physics with computers
+deutsch1985,10.1098/rspa.1985.0070,"Quantum theory, the Church–Turing principle and the universal quantum computer"
+deutsch1992,10.1098/rspa.1992.0167,Rapid solution of problems by quantum computation
+grover1996,10.1145/237814.237866,A fast quantum mechanical algorithm for database search
+shor1997,10.1137/S0097539795293172,Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer
+preskill2018,10.22331/q-2018-08-06-79,Quantum Computing in the NISQ era and beyond
+biamonte2017,10.1038/nature23474,Quantum machine learning
+schreiber2023,10.1103/PhysRevLett.131.100803,Classical Surrogates for Quantum Learning Models
+kim2023,10.1038/s41586-023-06096-3,Evidence for the utility of quantum computing before fault tolerance
+google2025,10.1038/s41586-024-08449-y,Quantum error correction below the surface code threshold
+cortes1995,10.1007/BF00994018,Support-vector networks
+powell1994,10.1007/978-94-015-8330-5_4,A Direct Search Optimization Method That Models the Objective and Constraint Functions by Linear Interpolation
+spall1992,10.1109/9.119632,Multivariate stochastic approximation using a simultaneous perturbation gradient approximation
+nielsen2010,10.1017/CBO9780511976667,Quantum Computation and Quantum Information
+schuld2021book,10.1007/978-3-030-83098-4,Machine Learning with Quantum Computers
+hidary2021,10.1007/978-3-030-83274-2,Quantum Computing: An Applied Approach
+mpofu2025,10.1051/matecconf/202541702001,Comparing artificial neural networks with variational quantum circuits for biomedical data classification
+arXiv_qiskit,arXiv:2405.08810,Quantum computing with Qiskit

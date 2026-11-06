@@ -1,0 +1,6 @@
+.venv/
+logs/
+literature/abstracts/
+__pycache__/
+*.pyc
+~$*
